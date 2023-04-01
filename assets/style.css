@@ -1,0 +1,22 @@
+body {
+    color :#ffffff;
+    font-family:'Segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(to right, #0440ff, #cc0000);
+    text-align: center;
+}
+h1{
+    font-size: 2.2em;
+}
+h3{
+    font-size: 1.9em;
+}
+p{
+    font-size: 1.6em;
+}
+input{
+    width: 120px;
+    height: 50px;
+    padding: 0;
+    background: none;
+    border: none;
+}
